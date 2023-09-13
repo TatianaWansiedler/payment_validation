@@ -25,7 +25,7 @@ const CardsForm = ({ data, setData }) => {
         },
     })
 
-    const cardNamberInput = register('number', {
+    const cardNumberInput = register('number', {
         required: 'Required',
         minLength: {
             value: 16,
@@ -100,7 +100,7 @@ const CardsForm = ({ data, setData }) => {
                         <input
                             className={errors.number ? `${s.input} ${s.error}` : s.input}
                             type="number"
-                            {...cardNamberInput}
+                            {...cardNumberInput}
                             placeholder='Number of card'
                         />
                         {errors.number && <p className={s.error_text}>{errors.number.message}</p>}
