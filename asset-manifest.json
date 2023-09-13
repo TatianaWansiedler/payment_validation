@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/payment_validation/static/css/main.e0608105.css",
+    "main.js": "/payment_validation/static/js/main.37d22506.js",
+    "static/media/visa.svg": "/payment_validation/static/media/visa.4ce17e0c5e8fcea6b9cca3387be04cde.svg",
+    "static/media/cards.svg": "/payment_validation/static/media/cards.a42df5ee9f3c895da1357f12dbbdfde5.svg",
+    "static/media/master.svg": "/payment_validation/static/media/master.b5e53ce12d8e5cee705878a306f66364.svg",
+    "static/media/Logo.svg": "/payment_validation/static/media/Logo.1dda00362fb06ef7b5f250d1ff9172e3.svg",
+    "index.html": "/payment_validation/index.html",
+    "static/media/slash.svg": "/payment_validation/static/media/slash.d1eb292076d7beace8c8c0f4edc3f0aa.svg",
+    "main.e0608105.css.map": "/payment_validation/static/css/main.e0608105.css.map",
+    "main.37d22506.js.map": "/payment_validation/static/js/main.37d22506.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0608105.css",
+    "static/js/main.37d22506.js"
+  ]
+}
