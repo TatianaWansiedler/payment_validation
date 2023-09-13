@@ -1,0 +1,15 @@
+.header, .cell {
+    width: min-content;
+    color: #000;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 18px;
+    border: 1px solid #828282;
+    background: #e5e5e5;
+    padding: 10px 20px;
+}
+.cell {
+    background: #fff;
+    font-weight: 400;
+    text-align: center;
+}
